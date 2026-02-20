@@ -12,6 +12,8 @@ This project is an interactive Power BI dashboard analyzing e-commerce sales per
 - Interactive Slicers
 
 ## 📷 Dashboard Preview
-(Add screenshot below)
+![Dashboard Preview](dashboard.png)
+
+
 
 
